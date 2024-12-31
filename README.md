@@ -41,7 +41,7 @@ Watch the demo video of the project in action:
 
 Watch the demo video of the project in action:
 
-[![E-Commerce Demo Video](https://cdn.streamable.com/image/782cic.jpg)](https://streamable.com/782cic)
+[![E-Commerce Demo Video](https://i.vimeocdn.com/video/1966282417-47fa25c823a5860e6c60509a298b9cb4d6c36afa69295bfd5f259c37de87009b-d_142x80?r=pad)](https://vimeo.com/1043144200?share=copy)
 
 ## 🚀 KeyFeatures_V1
 
