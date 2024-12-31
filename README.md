@@ -33,15 +33,11 @@ assets
 └── index.html
 ```
 
-## 🎥 Demo_Video
-
-Watch the demo video of the project in action:
-
 ## 🎥 Demo Video
 
 Watch the demo video of the project in action:
 
-[![E-Commerce Demo Video](https://i.vimeocdn.com/video/1966282417-47fa25c823a5860e6c60509a298b9cb4d6c36afa69295bfd5f259c37de87009b-d_142x80?r=pad)](https://vimeo.com/1043144200?share=copy)
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1043144200?h=9092086d1d" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ## 🚀 KeyFeatures_V1
 
