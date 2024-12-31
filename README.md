@@ -38,7 +38,7 @@ assets
 
 ## Demo_Video
 
-Watch the demo video of the project in action:
+Watch the demo video of the project in action: <br>
 [![E-Commerce Demo Video](https://vumbnail.com/1043144200.jpg)](https://player.vimeo.com/video/1043144200?h=9092086d1d)
 
 ## Technologies_Utilized
