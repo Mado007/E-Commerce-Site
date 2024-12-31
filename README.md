@@ -2,28 +2,31 @@
 
 This is a dynamic e-commerce project designed as part of a task for the Information Technology Institute (ITI). The site fetches data from an external API to display products dynamically.
 
-## 🧾 Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Project_Structure](#project_structure)
 - [Demo_Video](#Demo_Video)
-- [KeyFeatures_V1](#keyfeatures_v1)
 - [Technologies_Utilized](#technologies_utilized)
 - [Setup_Instructions](#setup_instructions)
 - [Contributors](#contributors)
 - [License](#license)
 
-## 📌 Introduction
+## Introduction
 
 This project showcases a fully functional e-commerce platform. The site dynamically fetches and displays products from an external API, making it a modern, interactive application.
 
-## 📁 Project_Structure
+## Project_Structure
 
 ```
 assets
 │
-├── assets/images
-│   └── icons
+├── assets/
+│        ├── images/
+│        │      └── icons
+│        │      └── Ad1.jpg
+│        ├── Demo-Video
+│                └── E-Commerce-API.mp4
 │
 ├── static
 │   ├── css
@@ -33,25 +36,19 @@ assets
 └── index.html
 ```
 
-## 🎥 Demo Video
+## Demo_Video
 
 Watch the demo video of the project in action:
 [![E-Commerce Demo Video](https://vumbnail.com/1043144200.jpg)](https://player.vimeo.com/video/1043144200?h=9092086d1d)
 
-## 🚀 KeyFeatures_V1
-
-- **Dynamic Product Fetching**: Uses API calls to fetch and display products.
-- **Responsive Design**: Optimized for various devices.
-- **User-Friendly Interface**: Intuitive navigation and design.
-
-## 🛠️ Technologies_Utilized
+## Technologies_Utilized
 
 - **HTML5**
 - **CSS3**
 - **JavaScript**
 - **Fetch API**
 
-## 📖 Setup_Instructions
+## Setup_Instructions
 
 Explore the live version here: [E-Commerce Site](https://mado007.github.io/E-Commerce-Site/)
 Or you can
@@ -62,12 +59,12 @@ Or you can
    ```
 2. Open the `index.html` file in your browser to explore locally.
 
-## 🙌 Contributors
+## Contributors
 
 - **Name**: Mahmoud Elsayed  
   **GitHub**: [mado007](https://github.com/mado007)
   **LinkedIn**: [Mahmoud-Elsayed](https://www.linkedin.com/in/mahmoud-elsayed/)
 
-## 📄 License
+## License
 
 This project is licensed under the **ITI License**. See the [LICENSE](./LICENSE) file for details.
