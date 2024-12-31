@@ -37,10 +37,11 @@ assets
 
 Watch the demo video of the project in action:
 
-<video width="640" height="360" controls>
-  <source src="assets/Demo-Video/E-Commerce-API.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 🎥 Demo Video
+
+Watch the demo video of the project in action:
+
+[![E-Commerce Demo Video](https://cdn.streamable.com/image/782cic.jpg)](https://streamable.com/782cic)
 
 ## 🚀 KeyFeatures_V1
 
