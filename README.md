@@ -6,6 +6,7 @@ This is a dynamic e-commerce project designed as part of a task for the Informat
 
 - [Introduction](#introduction)
 - [Project_Structure](#project_structure)
+- [Demo_Video](#Demo_Video)
 - [KeyFeatures_V1](#keyfeatures_v1)
 - [Technologies_Utilized](#technologies_utilized)
 - [Setup_Instructions](#setup_instructions)
@@ -31,6 +32,12 @@ assets
 │
 └── index.html
 ```
+
+## 🎥 Demo_Video
+
+Watch the demo video of the project in action:
+
+[E-Commerce Demo Video](assets/Demo-Video/E-Commerce-API.mp4)
 
 ## 🚀 KeyFeatures_V1
 
