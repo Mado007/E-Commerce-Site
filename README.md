@@ -36,8 +36,7 @@ assets
 ## 🎥 Demo Video
 
 Watch the demo video of the project in action:
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1043144200?h=9092086d1d" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+[![E-Commerce Demo Video](https://vumbnail.com/1043144200.jpg)](https://player.vimeo.com/video/1043144200?h=9092086d1d)
 
 ## 🚀 KeyFeatures_V1
 
